@@ -2,8 +2,6 @@ function getStrings() {
   let result = '';
   let answer = true;
   
-  
-
   for(let i = 0; true; i++) {
     
     if (i !== 0 && i % 3 === 0) {
